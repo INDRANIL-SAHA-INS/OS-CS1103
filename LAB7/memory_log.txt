@@ -1,0 +1,12 @@
+2025-03-10 14:47:27 -                total        used        free      shared  buff/cache   available
+Mem:            15Gi       3.4Gi         9Gi       807Mi       3.0Gi        11Gi
+Swap:          4.0Gi          0B       4.0Gi
+2025-03-10 14:47:37 -                total        used        free      shared  buff/cache   available
+Mem:            15Gi       3.4Gi         9Gi       803Mi       3.0Gi        11Gi
+Swap:          4.0Gi          0B       4.0Gi
+2025-03-10 14:47:47 -                total        used        free      shared  buff/cache   available
+Mem:            15Gi       3.4Gi         9Gi       803Mi       3.0Gi        11Gi
+Swap:          4.0Gi          0B       4.0Gi
+2025-03-10 14:47:57 -                total        used        free      shared  buff/cache   available
+Mem:            15Gi       3.4Gi        10Gi       797Mi       3.0Gi        11Gi
+Swap:          4.0Gi          0B       4.0Gi
