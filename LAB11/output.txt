@@ -1,0 +1,2 @@
+This is a standard output message.
+Trying to list a non-existent directory:

@@ -1,0 +1,2 @@
+This is a standard error message.
+ls: cannot access '/non_existent_directory': No such file or directory
